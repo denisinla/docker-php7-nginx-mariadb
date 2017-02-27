@@ -1,4 +1,4 @@
-### Setup
+### LEMP Setup
 _this assumes that you've setup your docker-machine and have docker-compose installed_
 
 1. Adjust your .env file
